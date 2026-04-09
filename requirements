@@ -1,0 +1,32 @@
+pytest
+grpcio_tools==1.41.0
+wrapt==1.13.2
+testcontainers==3.4.2
+packaging==21.0
+aiohttp==3.7.4
+contextvars==2.4
+elasticsearch==7.15.1
+kafka-python==2.0
+hug==2.6.1
+multidict==5.2.0
+pika==1.2.0
+PyYAML==6.0
+redis==3.5.3
+tornado==6.1
+yarl==1.7.0
+mysqlclient==2.1.0
+fastapi==0.70.1
+uvicorn==0.16.0
+# touch-medium-FqeN
+# touch-medium-HM9A
+# touch-medium-Tx0D
+# touch-medium-Jq4V
+# touch-medium-qCiQ
+# touch-medium-AwZl
+# touch-medium-GZNj
+# touch-medium-Qfm2
+# touch-medium-6aOj
+# touch-medium-IEFj
+# touch-medium-WXAK
+# touch-medium-Jm8A
+# touch-medium-72M6
